@@ -1,6 +1,6 @@
 # Drivers arquitectónicos
 
-Se integran los elementos identificados anteriormente (atributos de calidad y restricciones) para determinar cuáles tienen una influencia significativa en las decisiones de arquitectura.
+Los **drivers arquitectónicos** identificados para el sistema son los siguientes:
 
 | ID | Driver arquitectónico | Origen | ¿Por qué influye en la arquitectura? |
 |---|---|---|---|

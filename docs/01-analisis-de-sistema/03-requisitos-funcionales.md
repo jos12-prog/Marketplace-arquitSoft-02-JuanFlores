@@ -1,5 +1,7 @@
 # Requisitos funcionales
 
+## Requisitos funcionales
+
 | ID | Requisito funcional |
 |---|---|
 | RF01 | El sistema debe permitir buscar productos mediante criterios de búsqueda. |
@@ -10,6 +12,8 @@
 | RF06 | El sistema debe permitir consultar los pedidos realizados y su estado. |
 | RF07 | El sistema debe permitir registrar, actualizar y desactivar sellers de la plataforma. |
 | RF08 | El sistema debe permitir consultar el detalle de un pedido realizado. |
+
+---
 
 ## Relación entre historias de usuario y requisitos funcionales
 
